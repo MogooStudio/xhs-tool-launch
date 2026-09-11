@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书工具图文推广"
+  short_description: "把工具效果做成小红书系列图文，完成选题、分页、出图和发布包"
+  default_prompt: "用 $xhs-tool-launch 为这个工具制作一套小红书宣传图文，先展示效果，再介绍用法，交付图片、发布正文和打包文件。"
